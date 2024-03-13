@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muthoni
 - 👀 I’m interested in Data science and machine learning
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on Open Source projects.
+- 🌱 I’m currently learning Artificial Intelligece.
+- 💞️ I’m looking to collaborate on Open Source projects to grow and learn.
 - 📫 How to reach me ...
 
 <!---
